@@ -4,7 +4,7 @@
     "id": "Graphical_Overmap",
     "name": "Graphical Overmap",
     "authors": [ "Larwick" ],
-    "maintainers": [ "Larwick" ],
+    "maintainers": [ "Community" ],
     "description": "Gives the overmap a graphical overhaul.  Please refer to readme for installation.",
     "category": "graphical",
     "dependencies": [ "dda" ]
