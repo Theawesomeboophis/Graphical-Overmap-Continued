@@ -2,7 +2,7 @@ Last updated 2020-1-23
 Up to date as of Build #10230 (Military Base location (PR #37024))
 
 Installation:
-  - Rename 'fonts.json.txt' to 'fonts.json', move into your /config folder and overwrite - unless you have previously made changes to the file, in which case you will need to modify it manually to save your changes. Make sure 'fonts.json' no longer remains in the graphical overmap mod folder.
+  -  Move fonts.json into your /config folder and overwrite - unless you have previously made changes to the file, in which case you will need to modify it manually to save your changes. Make sure 'fonts.json' no longer remains in the graphical overmap mod folder.
   - In graphics options make sure the overmap font width/height/size are all set to "16" then restart.
 	
 Optional:
